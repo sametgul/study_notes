@@ -17,3 +17,7 @@ This repository documents my study notes and learning journey across:
 ---
 
 📌 I’m learning in public. Feedback or discussion welcome.
+
+## Roadmap
+
+1. FPGA-101, Learn VHDL, and Learn Verilog pages on [NANDLAND](https://nandland.com/) website.
